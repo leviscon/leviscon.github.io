@@ -71,10 +71,6 @@ a {
     align-items: center;
 }
 
-video {
-  float: center;
-  width: 70%
-}
 
 h1{
 color: white;
@@ -97,6 +93,11 @@ h2{
     width: 100%;
 }
 
+.box > video {
+    width: 75%;
+
+  }
+    
 footer{
     text-align: center;
 
