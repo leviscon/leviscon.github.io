@@ -72,9 +72,7 @@ a {
 }
 
 video {
-  width: 50%;
   float: left;
-  grid-row-gap: 20px;
 }
 
 h1{
