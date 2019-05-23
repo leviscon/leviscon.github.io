@@ -72,7 +72,8 @@ a {
 }
 
 video {
-  float: left;
+  float: center;
+  width: 70%
 }
 
 h1{
