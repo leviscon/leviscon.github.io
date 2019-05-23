@@ -68,7 +68,7 @@ a {
 .center {
     margin-left: auto;
     margin-right: auto;
-    display: block
+    display: grid;
 }
  .grid-wrapper {
     display: grid;
