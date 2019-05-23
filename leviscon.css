@@ -76,14 +76,6 @@ a {
 
 }
 
-.grid-wrapper > .center {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
-    grid-gap: 20px;
-    align-items: center;
-    justify-content: center;
-    padding: 50px;
-}
 
 h1{
 color: white;
